@@ -1,0 +1,32 @@
+// [
+  
+//     {
+//         "id":0,
+//         "img":"/offers/thai.jpg",
+//         "title":"Kantua hotel",
+//         "country":"THAILAND",
+//         "price":99.00
+//     },
+//     {
+//         "id":1,
+//         "img":"/offers/madrid.jpg",
+//         "title":"NH Madrid Zurbano",
+//         "country":"MADRID",
+//         "price":89.00
+//     },
+//     {
+//         "id":2,
+//         "img":"/offers/hongkong.jpg",
+//         "title":"Royal Plaza Hotel",
+//         "country":"HONG KONG",
+//         "price":89.00
+//     },
+//     {
+//         "id":3,
+//         "img":"/offers/abudhabi.jpg",
+//         "title":"Le Meridien",
+//         "country":"ABU DHABI",
+//         "price":109.00
+//     }
+    
+// ]
