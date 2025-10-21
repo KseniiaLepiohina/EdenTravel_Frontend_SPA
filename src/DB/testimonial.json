@@ -1,0 +1,40 @@
+[
+    {
+        "id":0,
+        "img":"https://www.dropbox.com/scl/fi/c8ydsgnbfsyebodba6csn/test1.jpg?rlkey=ldnpdbslznbj8ug0t2zb9xcta&st=0ax3et7y&raw=1",
+        "name" :"Isabel Rose",
+        "position":"Manager",
+        "quote":"“Sarah, a local resident, possesses a profound connection to this region. Having once served as a host, she intimately comprehends the significance of having someone dedicated to managing every intricate detail, ensuring a seamless experience for all.”",
+        "stars":"5/5",
+        "imgStars":"https://www.dropbox.com/scl/fi/wskdd5cnm34ax1chnqeve/5stars.svg?rlkey=a2bt6ospuss2pyj9qo0ejh9pe&st=t25gm7zr&raw=1"
+    },
+    {
+        "id":1,
+        "img":"https://www.dropbox.com/scl/fi/zlmwoj8f4wygbjnt3xmpg/test2.jpg?rlkey=pvffhdpra5jbt4uaz1bkll3u1&st=fg02p9di&raw=1",
+        "name" :"Oliver Mitchell",
+        "position":"Landscape Architect",
+        "quote":"“Liam, born and raised in this locale, has an innate connection to the area. With a background as a host himself, he fully appreciates the necessity of having someone who can attend to all the small but essential aspects, making every moment memorable.”",
+        "stars":"4/5",
+        "imgStars":"https://www.dropbox.com/scl/fi/wt3rvdz6ljzlco0nh05kn/4stars.svg?rlkey=1lmyttocfugko1ytxlphpg14i&st=j2niz2pa&raw=1"
+    },
+    {
+        "id":2,
+       "img":"https://www.dropbox.com/scl/fi/c8ydsgnbfsyebodba6csn/test1.jpg?rlkey=ldnpdbslznbj8ug0t2zb9xcta&st=0ax3et7y&raw=1",
+        "name" :"Isabel Rose",
+        "position":"Manager",
+        "quote":"“Sarah, a local resident, possesses a profound connection to this region. Having once served as a host, she intimately comprehends the significance of having someone dedicated to managing every intricate detail, ensuring a seamless experience for all.”",
+        "stars":"5/5",
+        "imgStars":"https://www.dropbox.com/scl/fi/wskdd5cnm34ax1chnqeve/5stars.svg?rlkey=a2bt6ospuss2pyj9qo0ejh9pe&st=t25gm7zr&raw=1"
+
+    },
+    {
+        "id":4,
+        "img":"https://www.dropbox.com/scl/fi/zlmwoj8f4wygbjnt3xmpg/test2.jpg?rlkey=pvffhdpra5jbt4uaz1bkll3u1&st=fg02p9di&raw=1",
+        "name" :"Oliver Mitchell",
+        "position":"Landscape Architect",
+        "quote":"“Liam, born and raised in this locale, has an innate connection to the area. With a background as a host himself, he fully appreciates the necessity of having someone who can attend to all the small but essential aspects, making every moment memorable.”",
+        "stars":"4/5",
+        "imgStars":"https://www.dropbox.com/scl/fi/wt3rvdz6ljzlco0nh05kn/4stars.svg?rlkey=1lmyttocfugko1ytxlphpg14i&st=j2niz2pa&raw=1"
+
+    }
+]

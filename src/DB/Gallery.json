@@ -1,0 +1,40 @@
+{
+    "destination": [
+        {
+            "id": 0,
+            "city": "Cairo",
+            "country": "EGYPT",
+            "flag": "https://www.dropbox.com/scl/fi/96eo5ufyfzozotrefhcau/egypt.svg?rlkey=3s2y4wrmpgbcy62stqa62y9uc&st=m9uringh&raw=1",
+            "price": 105.00,
+            "img": "https://www.dropbox.com/scl/fi/mphrvn6e7nt4qredxlro8/cairo.jpg?rlkey=ttdv39fetit0a2p2fdgfppjm4&st=8ree2ia0&raw=1",
+            "stars": "https://www.dropbox.com/scl/fi/wt3rvdz6ljzlco0nh05kn/stars.svg?rlkey=1lmyttocfugko1ytxlphpg14i&st=v4csxaxd&raw=1"
+        },
+        {
+            "id": 1,
+            "city": "Paris",
+            "country": "FRANCE",
+            "flag": "https://www.dropbox.com/scl/fi/0e3q7drs0pbkuqpwmpt1b/france.svg?rlkey=6mcdtaj41z45q3kjm3y5rnuor&st=e3a63eud&raw=1",
+            "price": 95.00,
+            "img": "https://www.dropbox.com/scl/fi/xu9nup4fyklmyh8wl4a5z/paris.png?rlkey=goll85zb88npec26r51s07emg&st=iwbwlrct&raw=1",
+            "stars": "https://www.dropbox.com/scl/fi/wt3rvdz6ljzlco0nh05kn/stars.svg?rlkey=1lmyttocfugko1ytxlphpg14i&st=v4csxaxd&raw=1"
+        },
+        {
+            "id": 2,
+            "city": "Rome",
+            "country": "ITALY",
+            "flag": "https://www.dropbox.com/scl/fi/c3a9hq8669djfketyut8u/italy.svg?rlkey=crj1yrqmluyfi3jldzihrgm2n&st=x3o5mtzf&raw=1",
+            "price": 75.00,
+            "img": "https://www.dropbox.com/scl/fi/4ssszrvnbl9h86cpw0fqf/rome.png?rlkey=k3z72wkm2rl6mrr73t0l77s6m&st=wp1aov20&raw=1",
+            "stars": "https://www.dropbox.com/scl/fi/wt3rvdz6ljzlco0nh05kn/stars.svg?rlkey=1lmyttocfugko1ytxlphpg14i&st=v4csxaxd&raw=1"
+        },
+        {
+            "id": 3,
+            "city": "Madrid",
+            "country": "ESPAIN",
+            "flag": "https://www.dropbox.com/scl/fi/zabtj7ms35d7jk1pmafv4/spain.svg?rlkey=lgy2355chr4olpuzl88856obh&st=5hnmlgku&raw=1",
+            "price": 87.00,
+            "img": "https://www.dropbox.com/scl/fi/41phubnwebjshrnck3ifu/madrid.png?rlkey=tfws3ggsk21ysphfxe3wjkgch&st=8zen1dlg&raw=1",
+            "stars": "https://www.dropbox.com/scl/fi/wt3rvdz6ljzlco0nh05kn/stars.svg?rlkey=1lmyttocfugko1ytxlphpg14i&st=v4csxaxd&raw=1"
+        }
+    ]
+}
