@@ -12,7 +12,7 @@ import europe from "../assets/explore/europe.png";
 import america from "../assets/explore/america.png";
 import arr from "../assets/Arrowbutton.svg";
 import Testimonial from "../components/testimonial";
-import story from "../testimonial.json";
+import story from "../DB/testimonial.json";
 import Header from "../components/header";
 import Footer from "../components/Footer";
 import Booking from "../components/Booking";
